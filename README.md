@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <h1 align="center">Project Title</h1>
+  <h1 align="center">Structural Capacity Computation Interface</h1>
   
   <p align="center">
     <a href="https://github.com/Green-AI-Hub-Mittelstand/readme_template/issues">Report Bug</a>
