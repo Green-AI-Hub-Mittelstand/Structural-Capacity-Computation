@@ -34,7 +34,7 @@
 
 This repository contains code for the computation of approximate capacities for load-bearing building elements as an input for a preliminary design. The calculations are available for walls (reinforced concrete), slabs (reinforced concrete), beams (steel and reinforced concrete) and columns (steel and reinforced concrete). For steel beams standard I- and RH-sections are included, for columns the standard I-, RH- and O-profile sizes are implemented. Please note, the calculations of capacities are complex, so to have a quick estimation, simplified assumptions have been made. This tool is intended to be used as a first input during predesign, not during a full structural analysis.
 
-The implementation can be directly integrated via the respective functions. Additinoally, an interface is available to calculate capacities via a web browser.
+The implementation can be directly integrated via the respective functions. Additionally, an interface is available to calculate capacities via a web browser.
 
 This code repository was part of this <a href="https://www.green-ai-hub.de/pilotprojekte/pilotprojekt-concular"><u>project</u></a>  in the Green-AI Hub Mittelstand.
 
